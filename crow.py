@@ -7,7 +7,7 @@ from math import floor
 # Configuração da Página
 st.set_page_config(page_title="L2 Crowculator", page_icon="⚔️")
 
-st.title("⚔️ Lineage 2: Conversor de Moedas: Crowculator")
+st.title("⚔️ Lineage 2: Conversor de Moedas")
 st.markdown("Converta Adena, L2 Coins e calcule valores para RMT.")
 
 # Constante de Taxa
